@@ -1,0 +1,23 @@
+C:\Users\gdenz\Desktop\Dev Projects\Random Names Generator\Random Names Generator\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\gdenz\Desktop\Dev Projects\Random Names Generator\Random Names Generator\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\gdenz\Desktop\Dev Projects\Random Names Generator\Random Names Generator\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\gdenz\Desktop\Dev Projects\Random Names Generator\Random Names Generator\bin\Debug\netcoreapp3.1\Random Names Generator.exe
+C:\Users\gdenz\Desktop\Dev Projects\Random Names Generator\Random Names Generator\obj\Debug\netcoreapp3.1\Random Names Generator.csprojAssemblyReference.cache
+C:\Users\gdenz\Desktop\Dev Projects\Random Names Generator\Random Names Generator\obj\Debug\netcoreapp3.1\staticwebassets\Random Names Generator.StaticWebAssets.Manifest.cache
+C:\Users\gdenz\Desktop\Dev Projects\Random Names Generator\Random Names Generator\obj\Debug\netcoreapp3.1\staticwebassets\Random Names Generator.StaticWebAssets.xml
+C:\Users\gdenz\Desktop\Dev Projects\Random Names Generator\Random Names Generator\obj\Debug\netcoreapp3.1\Random Names Generator.RazorAssemblyInfo.cache
+C:\Users\gdenz\Desktop\Dev Projects\Random Names Generator\Random Names Generator\obj\Debug\netcoreapp3.1\Random Names Generator.RazorAssemblyInfo.cs
+C:\Users\gdenz\Desktop\Dev Projects\Random Names Generator\Random Names Generator\obj\Debug\netcoreapp3.1\Random Names Generator.AssemblyInfoInputs.cache
+C:\Users\gdenz\Desktop\Dev Projects\Random Names Generator\Random Names Generator\obj\Debug\netcoreapp3.1\Random Names Generator.AssemblyInfo.cs
+C:\Users\gdenz\Desktop\Dev Projects\Random Names Generator\Random Names Generator\obj\Debug\netcoreapp3.1\Random Names Generator.TagHelpers.input.cache
+C:\Users\gdenz\Desktop\Dev Projects\Random Names Generator\Random Names Generator\obj\Debug\netcoreapp3.1\Random Names Generator.TagHelpers.output.cache
+C:\Users\gdenz\Desktop\Dev Projects\Random Names Generator\Random Names Generator\obj\Debug\netcoreapp3.1\Random Names Generator.RazorCoreGenerate.cache
+C:\Users\gdenz\Desktop\Dev Projects\Random Names Generator\Random Names Generator\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\gdenz\Desktop\Dev Projects\Random Names Generator\Random Names Generator\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\gdenz\Desktop\Dev Projects\Random Names Generator\Random Names Generator\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\gdenz\Desktop\Dev Projects\Random Names Generator\Random Names Generator\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\gdenz\Desktop\Dev Projects\Random Names Generator\Random Names Generator\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\gdenz\Desktop\Dev Projects\Random Names Generator\Random Names Generator\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\gdenz\Desktop\Dev Projects\Random Names Generator\Random Names Generator\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\gdenz\Desktop\Dev Projects\Random Names Generator\Random Names Generator\obj\Debug\netcoreapp3.1\Random Names Generator.RazorTargetAssemblyInfo.cache
+C:\Users\gdenz\Desktop\Dev Projects\Random Names Generator\Random Names Generator\obj\Debug\netcoreapp3.1\Random Names Generator.RazorTargetAssemblyInfo.cs
